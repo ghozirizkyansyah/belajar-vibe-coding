@@ -2,7 +2,7 @@
 
 Proyek backend API berbasis **Bun**, **ElysiaJS**, **Drizzle ORM**, dan **MySQL**.
 
-## Tech Stack
+## Arsitektur ## Tech Stack Tech Stack
 - **Runtime**: [Bun](https://bun.sh)
 - **Web Framework**: [ElysiaJS](https://elysiajs.com)
 - **ORM**: [Drizzle ORM](https://orm.drizzle.team)
